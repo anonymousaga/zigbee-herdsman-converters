@@ -1,6 +1,6 @@
 import * as m from "../lib/modernExtend";
 
-export const definitions = [
+export const definitions: DefinitionWithExtend[] = [
     {
         zigbeeModel: ["Overflow"],
         model: "POFLW-WH02",
